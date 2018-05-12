@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8861
     wikipedia: http://hu.wikipedia.org/wiki/Thury_Zolt%C3%A1n
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42207#Thury-Zolt-n--sszes-m-vei--3.-k-tet---13-A-kapit-ny--s-egy-b-elbesz-l-sek
 gutenberg_issued: '2013-02-26'
 gutenberg_type: Text
 identifiers:
