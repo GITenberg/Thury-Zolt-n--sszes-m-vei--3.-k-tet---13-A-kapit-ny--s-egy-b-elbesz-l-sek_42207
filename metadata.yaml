@@ -1,0 +1,37 @@
+_repo: Thury-Zolt-n--sszes-m-vei--3.-k-tet---13-A-kapit-ny--s-egy-b-elbesz-l-sek_42207
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thury, Zoltán
+    alias: Thury, Zoltan
+    birthdate: 1870
+    deathdate: 1906
+    gutenberg_agent_id: '8861'
+    url: http://www.gutenberg.org/2009/agents/8861
+    wikipedia: http://hu.wikipedia.org/wiki/Thury_Zolt%C3%A1n
+description: ''
+gutenberg_issued: '2013-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42207'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, Hungarian'
+tableOfContents: A kapitány -- Károly -- Szerelem -- A kicsi király -- A tanítók sztrájkja
+  -- Harmincz percz -- Gőzös a határban -- Öt esztendő -- Gondviselés -- Ő fensége
+  -- A csizmadiák lapja -- A zsobokai plebános -- Pedagogia -- Az uzsorás -- Osztozkodás
+  -- Ötven forint -- Pintyőke -- A mese -- A másik társaság -- A vers -- A katonagyerek
+  -- A főhadnagy -- A penzió -- A csend -- Az asszony -- A töltés alatt -- A törpék
+  -- A hitetlenek -- A Fekete-leányok -- A parádé -- A szerencsétlenség -- Az urak
+  -- A szegény ember dolga -- A munka -- A betegek -- Az anarkisták -- György és Ferencz
+  urak -- Luiz -- Az uj tanítónő.
+title: "Thury Zoltán összes művei (3. kötet)\r\nA kapitány és egyéb elbeszélések"
+url: http://www.gutenberg.org/ebooks/42207
